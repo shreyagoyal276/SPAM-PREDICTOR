@@ -4,6 +4,7 @@ body {
     background-image: url('image.jpg');
     text-align: center;
     padding: 50px;
+    color: white;
 }
 
 .container {

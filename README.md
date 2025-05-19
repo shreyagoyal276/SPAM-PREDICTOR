@@ -34,5 +34,11 @@ It helps to identify unwanted or spam messages by analyzing the text with a trai
 - nltk (NLP)  
 - pandas, numpy  
 - HTML, CSS  
-
 ---
+
+## Home Screen📸
+![main](https://github.com/user-attachments/assets/37399c91-cbef-4652-be1b-66af6ffa91b7)
+
+## Sample Output
+![Spam](https://github.com/user-attachments/assets/0cad0e7b-3144-4b00-8aa3-1fb9a9c80011)
+
